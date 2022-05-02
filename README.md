@@ -63,3 +63,11 @@ In the repository we have usen the following commands for execution.
 ## Results
 	
 	Executing main.py will dynamically generate .csv files (using Pydriller).
+	
+	
+	
+## Conclusion
+
+      From this project I learnt how to build and generate an coverage report.
+      Learnt new concepts related to PyDriller
+      Usage of Regex for extracting the data.
